@@ -1,0 +1,53 @@
+{"intents":[
+    {"tag":"a",
+     "patterns":["asdfa","dafdafas","aaa","asfda","sahdjashdhs","asdsadas","aaaa","adsahdjsakdu"],
+     "responses":["Xin loi, ban can gi","Xin vui long nhap lai","Toi khong hieu ban noi gi","Toi khong hieu"],
+     "context set":""
+    },
+    {"tag":"greeting",
+     "patterns":["xin chao","hello","hi","what's up","chao","hey","khoe khong"],
+     "responses":["Xin chao","Hello","Hi","Ban khoe khong","Lau roi khong gap","Chao ban","Dao nay ban sao roi","Dao nay the nao","Dao nay sao"],
+     "context set":""
+    },
+    {"tag":"bye",
+     "patterns":["tam biet","goodbye","bye","have a good day","noi chuyen sau nhe"],
+     "responses":["Hen gap lai ban","See you later","Goodbye","Bye","Goodbye","Tam biet ban","Som gap lai nhe"],
+     "context set":""
+    },
+    {"tag":"age",
+     "patterns":["toi bao nhieu tuoi","tuoi","how old","how old are you","age","tuoi cua toi","toi nam nay bao nhieu tuoi"],
+     "responses":["Ban 20 tuoi","20 tuoi","hai muoi tuoi","You're 20 years old","Ban nam nay 20 tuoi"],
+     "context set":""
+    },
+    {"tag":"name",
+     "patterns":["toi ten la gi","what's my name","ten","ten toi","ten cua toi","ten that cua toi"],
+     "responses":["Anh","Nguyen Nhat Anh","Nhat Anh"],
+     "context set":""
+    },
+    {"tag":"school",
+     "patterns":["Toi hoc truong gi","truong","school","truong cua toi","my school","ten truong","truong toi dang theo hoc","truong dai hoc cua toi"],
+     "responses":["Mo Dia Chat","MDC","Dai hoc Mo Dia Chat","HANOI UNIVERSITY OF MININGAND GEOLOGY"],
+     "context set":""
+    },
+    {"tag":"where",
+     "patterns":["toi song o dau","o dau","noi o","noi o hien tai","noi o cua toi"],
+     "responses":["Ha Noi","Hanoi"],
+     "context set":""
+    },
+    {"tag":"schooladdress",
+     "patterns":["dia chi cua truong toi","truong cua toi o dau","dia chi truong","dia chi truong dai hoc mo dia chat"],
+     "responses":["Pho Vien,Co Nhue, Nam Tu Liem, Ha Noi, Vietnam"],
+     "context set":""
+    },
+    {"tag":"chuyennganh",
+     "patterns":["chuyen nganh cua toi la gi","chuyen nganh","chuyen nganh hien tai","chuyen nganh toi dang theo hoc"],
+     "responses":["Khoa Hoc May Tinh","Computer Science"],
+     "context set":""
+    },
+    {"tag":"help",
+     "patterns":["giup toi voi","hay giup toi","help","toi can giup do"],
+     "responses":["toi co the giup gi cho ban","ban can toi giup gi","sao vay"],
+     "context set":""
+    }
+]
+}
